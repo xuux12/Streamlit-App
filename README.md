@@ -26,7 +26,7 @@ Built with Python and Streamlit.
 - Streamlit
 -Seaborn
 
-https://ali-mohammed.streamlit.app/
+
 
 1. Clone the repo:
 ```bash
