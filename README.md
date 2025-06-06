@@ -16,5 +16,9 @@ Built with Python and Streamlit.
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/copenhagen-traffic-simulator.git
+git clone https://github.com/xuux12/copenhagen-traffic-simulator.git
 cd copenhagen-traffic-simulator
+By Eng. Ali Mohammed
+  xuux1148@yahoo.com
+   1. Danmark Esbjerg 004560639018
+    2. England Liverpool 00447927898323
