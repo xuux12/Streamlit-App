@@ -14,6 +14,8 @@ Built with Python and Streamlit.
 
 ## How to Run
 
+https://ali-mohammed.streamlit.app/
+
 1. Clone the repo:
 ```bash
 git clone https://github.com/xuux12/copenhagen-traffic-simulator.git
