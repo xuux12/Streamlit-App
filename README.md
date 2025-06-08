@@ -17,6 +17,9 @@ Built with Python and Streamlit.
 
 🌐 Live App: [Try it on Streamlit](https://ali-mohammed.streamlit.app/)
 
+# Note: This app is hosted on Streamlit Cloud (free tier). If it's asleep, 
+# just click "Yes" to wake it — it’ll start in a few seconds.
+
 📁 This app simulates and visualizes traffic flow in Copenhagen.
 
 ## Tech Stack
